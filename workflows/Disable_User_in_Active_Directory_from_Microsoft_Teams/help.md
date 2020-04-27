@@ -2,7 +2,7 @@
 
 Disabling a compromised account can limit the scope of an attack and buy valuable time to investigate and contain the threat. This workflow disables a domain user account with a command in Microsoft Teams.
 
-Sample Slack Trigger Commands:
+Sample Microsoft Teams Trigger Commands:
 
 `!disable-user-ad <exampleuser>`
 
@@ -54,6 +54,7 @@ _There is no troubleshooting information at this time_
 
 # Version History
 
+* 1.0.2 - Fix typo in help | add description to workflow file
 * 1.0.1 - Update trigger syntax, documentation, workflow name, and input parameters
 * 1.0.0 - Initial workflow
 

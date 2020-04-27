@@ -8,7 +8,7 @@
         "name": "Disable User in Active Directory from Microsoft Teams",
         "type": "runnable",
         "version": "",
-        "description": "",
+        "description": "Disabling a compromised account can limit the scope of an attack and buy valuable time to investigate and contain the threat. This workflow disables a domain user account with a command in Microsoft Teams.",
         "graph": {
           "edges": {
             "03316e2e-6b69-40bd-8d62-60429cc3e392": {
